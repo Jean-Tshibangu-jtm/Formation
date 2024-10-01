@@ -2,7 +2,7 @@
 
 
 Comme vu, lors du cours, MongoDB est une base de données NoSQL orientée document. Cela signifie que les données sont sous la forme de JSON/BSON. Pour plus d'informations, vous pouvez consulter le [site de MongoDB](http://www.mongodb.com/). Pour ce faire, nous allons utiliser MongoDB Compass(lien de téléchargement: https://www.mongodb.com/try/download/community, MongoDB Community Server Version 8.0.0) qui nous permettra d'avoir une base de données MongoDB en local.
-Nous allons installé également **MongoDB Shell** (lien https://www.mongodb.com/try/download/shell). C'estt l'interface en ligne de commande fournie par MongoDB pour interagir avec la base de données. Il permet aux utilisateurs d'exécuter des commandes, d'effectuer des requêtes et de manipuler des données directement dans la console. 
+Nous allons installé également **MongoDB Shell** (lien https://www.mongodb.com/try/download/shell). C'est l'interface en ligne de commande fournie par MongoDB pour interagir avec la base de données. Il permet aux utilisateurs d'exécuter des commandes, d'effectuer des requêtes et de manipuler des données directement dans la console. 
 
 ### Plus d'infos sur l'installation :
 - **Windows** : https://welovedevs.com/fr/articles/mongodb-windows/
@@ -10,10 +10,9 @@ Nous allons installé également **MongoDB Shell** (lien https://www.mongodb.com
 - **MacOs**:https://welovedevs.com/fr/articles/mongodb-mac
   
 ### Autres outils à installer :
-- Python : https://www.python.org/downloads/
-- Jupyer Notebook : https://jupyter.org/install
-- 
-- 
+- **Python** : https://www.python.org/downloads/
+- **Jupyer Notebook** : https://jupyter.org/install. Editeur pour manipuler les données de db avec le langage Python
+
 
 ## Jeu de données
 
