@@ -1,8 +1,9 @@
 # Séance 1 - Introduction à MongoDB
 
+
 Comme vu, lors du cours, MongoDB est une base de données NoSQL orientée document. Cela signifie que les données sont sous la forme de JSON/BSON. Pour plus d'informations, vous pouvez consulter le [site de MongoDB](http://www.mongodb.com/).
 
-Pour ce faire, nous allons utiliser Atlas qui nous permettra d'héberger une base de données MongoDB en ligne.
+Pour ce faire, nous allons utiliser MongoDB Community Server(lien de téléchargement: https://www.mongodb.com/try/download/community) qui nous permettra d'avoir une base de données MongoDB en local.
 
 ## Jeu de données
 
@@ -58,7 +59,7 @@ import pymongo
 
 
 URI = 'mongodb+srv://<user_name>:<password>@<cluster_name>.zrugz.mongodb.net/?retryWrites=true&w=majority&appName=<cluster_name>'
-client = pymongo.MongoClient(URI)
+client = pymongo.MongoClient(URI)// # enlever le paramètre URI si connexion locale
 db = client.tp
 
 # output the name of the collections in the database
@@ -68,6 +69,8 @@ print("Restaurants: ", db.restaurants)
 
 
 ## A faire
+## Premiers pas sur Mongo.
+#### Avant de commencer ce TP, je vous invite à visiter la page suivante :  https://fxjollois.github.io/cours-2023-2024/but3--vcod--fa--nosql/res-seance2. Cela vous permettra de vous familiariser avec les concepts de MongoDB(Avec l'exemple de la db restaurants).
 
 1. Donner les styles de cuisine présent dans la collection
 1. Donner tous les grades possibles dans la base
