@@ -3,7 +3,7 @@
 
 Comme vu, lors du cours, MongoDB est une base de données NoSQL orientée document. Cela signifie que les données sont sous la forme de JSON/BSON. Pour plus d'informations, vous pouvez consulter le [site de MongoDB](http://www.mongodb.com/).
 
-Pour ce faire, nous allons utiliser MongoDB Community Server(lien de téléchargement: https://www.mongodb.com/try/download/community) qui nous permettra d'avoir une base de données MongoDB en local.
+Pour ce faire, nous allons utiliser MongoDB Compass(lien de téléchargement: https://www.mongodb.com/try/download/community) qui nous permettra d'avoir une base de données MongoDB en local.
 
 ## Jeu de données
 
