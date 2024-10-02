@@ -97,5 +97,20 @@ print("Restaurants: ", db.restaurants)
 Les questions suivantes nécessitent une recherche pour compléter ce qui a déjà été vu dans ce TP.
 
 1. Lister les restaurants (nom et rue uniquement) situés sur une rue ayant le terme "Union" dans le nom
-1. Lister les restaurants ayant eu une visite le 1er février 2014
-1. Lister les restaurants situés entre les longitudes -74.2 et -74.1 et les lattitudes 40.5 et 40.6.
+2. Lister les restaurants ayant eu une visite le 1er février 2014
+3. Lister les restaurants situés entre les longitudes -74.2 et -74.1 et les lattitudes 40.5 et 40.6.
+   
+## Questions sur db movies
+
+1. Afficher les 10 premiers éléments de la collection Film.
+
+2. Afficher les 4,5, et 6 éléments de la collection Film.
+
+3. Sur la collection terminator, afficher uniquement le titre et l’année de tous les films qui
+contiennent le mot terminator.
+
+4. Trouver tous les films dont le titre est ‘Terminator 2’.
+
+5. Trouver tous les titres de films avec comportant le mot ‘terminator’
+
+6. Combien de film comporte le mot terminator ?
