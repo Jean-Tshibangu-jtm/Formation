@@ -5,7 +5,7 @@ Les fonctions agrégats de MongoDB permettent de traiter des données en effectu
  *Exemple :* db.collection.aggregate([ { $match: { age: { $gt: 18 } } }]). Cette requête ne renvoie que les documents où l'âge est supérieur à 18
 
 2. **$group** : Regroupe les documents par une clé donnée et permet d’effectuer des calculs sur chaque groupe.
- *Exemple :* db.collection.aggregate([{ $group: { _id: "$department", total: { $sum: "$salary" } } }]). Ce requête  calcule le total des salaires par département.
+ *Exemple :* db.collection.aggregate([{ $group: { _id: "$department", total: { $sum: "$salary" } } }]). Cette requête  calcule le total des salaires par département.
 3. **$sort** : Trie les documents selon un ou plusieurs critères.Ce pipeline trie les documents par âge, du plus âgé au plus jeune.
 *Exemple :* db.collection.aggregate([{ $sort: { age: -1 } }]).
 4.  **$project**: Modifie la structure des documents, permettant de sélectionner, de renommer ou d'ajouter des champs.Cette req renvoie les noms et âges tout en multipliant le salaire par 12 pour obtenir un salaire annuel.
