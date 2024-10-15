@@ -268,7 +268,7 @@ Cet opérateur permet le calcul d'agrégats tel qu'on le connaît.
     - `$sum` : somme (soit de valeur fixe - 1 pour faire un décompte donc, soit d'un champs spécifique)
     - `$avg, $min, $max`
     - `$addToSet` : regroupement des valeurs distinctes d'un champs dans un tableau 
-    - `$push` : aggrégation de champs dans un tableau
+    - `$push` : aggrégation de champs dans un tableau.Il est utilisé pour ajouter une valeur spécifiée à un tableau dans un document.
 
 - On calcule ici le nombre total de restaurants
 
