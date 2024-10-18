@@ -218,6 +218,7 @@ pandas.DataFrame(list(c))
 ```
 
 - On peut aussi faire des opérations sur les chaînes, tel que la mise en majuscule du nom
+-   $out  crée une nouvelle collection si elle n’existe pas déjà. Exemple $out: "outputCollection"
 
 ```python
 c = db.restaurants.aggregate([
