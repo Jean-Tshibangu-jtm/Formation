@@ -24,6 +24,10 @@
    :PLAY northwind
    ```
 
+    ```cypher
+   ou Télécharger le script northwind_scripts_index.txt et exécuter le sur la console
+   ```
+
 ## Introduction à Cypher
 
 Cypher est le langage de requête de Neo4j. Voici quelques exemples de syntaxe de base.
