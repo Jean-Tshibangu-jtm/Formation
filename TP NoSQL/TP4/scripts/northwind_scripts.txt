@@ -1,0 +1,66 @@
+Charger  products
+
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/products.csv" AS row
+CREATE (n:Product)
+SET n = row,
+n.unitPrice = toFloat(row.unitPrice),
+n.unitsInStock = toInteger(row.unitsInStock), n.unitsOnOrder = toInteger(row.unitsOnOrder),
+n.reorderLevel = toInteger(row.reorderLevel), n.discontinued = (row.discontinued <> "0")
+
+Charger  les categories
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/categories.csv" AS row
+CREATE (n:Category)
+SET n = row
+
+
+Charger suppliers
+
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/suppliers.csv" AS row
+CREATE (n:Supplier)
+SET n = row
+
+Orders
+
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/orders.csv" AS row
+CREATE (o:Order)
+SET o = row;
+
+ Charger le fichier customers.csv
+
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/customers.csv" AS row
+CREATE (c:Customer)
+SET c = row;
+
+Charger le fichier employees.csv
+
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/employees.csv" AS row
+CREATE (e:Employee)
+SET e = row;
+
+Charger le fichier employee-territories.csv
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/employee-territories.csv" AS row
+CREATE (et:EmployeeTerritory)
+SET et = row;
+
+Charger le fichier order-details.csv
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/order-details.csv" AS row
+CREATE (od:OrderDetail)
+SET od = row;
+
+Charger le fichier regions.csv
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/regions.csv" AS row
+CREATE (r:Region)
+SET r = row;
+
+Charger le fichier shippers.csv
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/shippers.csv" AS row
+CREATE (s:Shipper)
+SET s = row;
+
+Charger un autre fichier shippers.csv (identique à celui ci-dessus)
+LOAD CSV WITH HEADERS FROM "https://data.neo4j.com/northwind/shippers.csv" AS row
+CREATE (s:Shipper)
+SET s = row;
+
+
+ 
