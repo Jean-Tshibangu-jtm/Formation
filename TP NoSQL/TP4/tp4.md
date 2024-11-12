@@ -11,11 +11,14 @@
 
 1. **Installation de Neo4j**  
    Si Neo4j n'est pas déjà installé sur votre machine, vous pouvez le télécharger à partir de [ce lien](https://neo4j.com/download/).
+
+2. **Utiliser Neo4j Aura**  
+  L'utilisation de Neo4j en cloud permet d'exploiter toutes les fonctionnalités de cette base de données graphique tout en bénéficiant des avantages du cloud, tels que la scalabilité, la gestion simplifiée et l'accès distant, vous pouvez se connecter et créer un compte( Option Aura Login)  à partir de [ce lien](https://neo4j.com/). Prière de télécharger les identifiants et mot de passe à la fin de l'installation.
    
-2. **Démarrage de Neo4j**  
+3. **Démarrage de Neo4j**  
    Une fois installé, démarrez Neo4j. Vous pouvez accéder à Neo4j au travers du logiciel ou bien sur l'interface web via [http://localhost:7474](http://localhost:7474).
 
-3. **Chargement d'une base de données exemple**  
+4. **Chargement d'une base de données exemple**  
    Pour ce TP, nous allons utiliser une base de données de films. Vous pouvez charger la base avec la commande suivante dans la console Neo4j :
    ```cypher
    :PLAY northwind
@@ -238,13 +241,16 @@ Pour la suite de ce TP nous allons utiliser une base de données de films. Voici
 ![Database Schema](https://github.com/neo4j-graph-examples/recommendations/blob/main/documentation/img/model.png)
 
 Pour plus d'informations sur la base de données de films, vous pouvez consulter [ce lien](https://github.com/neo4j-graph-examples/recommendations).
-
+Vous allez créer un ensemble de données(scripts disponible ici) avec des nœuds Person et Movie et différents types de relations pour les relier. 
 Pour charger la base de données de films, utilisez la commande suivante dans la console Neo4j :
 
-```cypher
-:PLAY movies
-```
 
+```cypher
+:PLAY movies 
+```
+```cypher
+ou Télécharger le script movies_db_script.txt et exécuter le sur la console. Ce script crée un ensemble de données avec des nœuds Person et Movie et différents types de relations pour les relier.
+```
 Pour chaque question, écrivez la requête Cypher correspondante.
 
 1. Afficher tous les nœuds de type films.
@@ -252,8 +258,14 @@ Pour chaque question, écrivez la requête Cypher correspondante.
 1. Limitez la réponse précédente à 3 titres, triés en ordre alphabétique.
 1. Listez les films dans lesquels *Kevin Bacon* a joué.
 1. Trouvez les nœuds acteurs qui ont joué dans un film avec Tom Cruise.
-1. Donnez les nœuds acteurs ayant un lien avec Tom Cruise, quel que soit ce lien et le nombre de liens.
-1. Limitez la longueur du lien à 3 arcs.
+1. Trouver tous les films avec des acteurs ayant joué dans "The Matrix"
+1. Trouver les films qui ont été à la fois produits et réalisés par la même personne
 1. Ajoutez le film Darkstar, et quelques acteurs (voir Imdb ou Wikipedia pour plus de détails).
 1. Trouvez les acteurs qui ont joué dans le film *The Matrix*.
 1. Recherchez les films sortis en 1999.
+2. Trouver tous les acteurs ayant joué avec un acteur spécifique ?
+3. Compter le nombre de films réalisés par chaque réalisateur
+4. Lister les films dans lesquels un acteur a joué et qui ont été produits par un producteur spécifique ?
+5. Supprimer une relation entre un acteur et un film ?
+6. Afficher les films associés à un acteur donné, triés par année de sortie ?
+7. Relier deux films qui ont le même acteur 
