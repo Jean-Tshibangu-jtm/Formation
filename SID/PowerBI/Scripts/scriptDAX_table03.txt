@@ -1,0 +1,11 @@
+ TableDate 03 =
+
+VAR DebutDate = DATE(2014,1,1)
+VAR FinDate = DATE(2023,12,31)
+RETURN
+ADDCOLUMNS(CALENDAR(DebutDate,FinDate),
+           "Annee", FORMAT([Date],"YYYY"),
+           "Trimestre" , "T"&FORMAT([Date],"Q"),
+           "Annee mois", FORMAT([Date],"YYYYMM"),
+           "Nom du mois", FORMAT([Date],"MMMM YY")
+)
