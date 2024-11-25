@@ -272,4 +272,24 @@ Pour chaque question, écrivez la requête Cypher correspondante.
 4. Lister les films dans lesquels un acteur a joué et qui ont été produits par un producteur spécifique ?
 5. Supprimer une relation entre un acteur et un film ?
 6. Afficher les films associés à un acteur donné, triés par année de sortie ?
-7. Relier deux films qui ont le même acteur 
+7. Relier deux films qui ont le même acteur
+8. Quels réalisateurs ont réalisé des films dans lesquels ils ont également joué ?
+9. Quels acteurs ont travaillé avec un même réalisateur dans au moins 3 films différents ?
+10. Quels sont les films qui ont été réalisés par plusieurs personnes ?
+11. Quels sont les films qui n’ont qu’un seul acteur ?
+12. Quels sont les réalisateurs qui ont collaboré avec au moins 5 acteurs différents sur un même film ?
+13. Quels acteurs ont joué dans des films dirigés par au moins 3 réalisateurs différents ?
+14. Quels sont les films où tous les acteurs sont également réalisateurs ?
+15. Quels réalisateurs ont également joué dans les films de 3 autres réalisateurs différents ?
+16. Quels acteurs et réalisateurs n'ont collaboré qu'une seule fois ?
+17. Quels sont les films réalisés par quelqu’un qui n’a pas joué dans d’autres films ?
+18. Quels acteurs ont joué dans tous les films réalisés par un même réalisateur ?
+19. Quels acteurs ont collaboré dans au moins 5 films ?
+20. Quels films ont été réalisés par des personnes ayant déjà joué dans au moins 10 films ?
+21. Quels sont les réalisateurs ayant dirigé des films avec uniquement des acteurs qui n’ont jamais dirigé de films ?
+22. Quels films ont été joués par une seule personne qui est également le réalisateur ?
+23. Quels réalisateurs ont collaboré avec les mêmes acteurs dans au moins deux films différents ?
+24. Quels acteurs ont joué dans des films dirigés par eux-mêmes et d'autres personnes ?
+25. Quels films ont été dirigés par une personne qui a également joué avec d'autres acteurs dans le film ?
+26. Quels acteurs ont joué dans le plus grand nombre de films dirigés par une seule personne ?
+27. Quels films ont été dirigés par une personne ayant déjà collaboré avec plus de 10 acteurs différents ?
