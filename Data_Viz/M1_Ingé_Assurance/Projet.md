@@ -18,10 +18,10 @@ Ce projet vise à développer cette compétence en exigeant l’application int�
 Chaque groupe devra sélectionner **deux (ou trois) jeux de données distincts**, selon la logique suivante :
 
 - **M1 Économie de la santé** :  
-  Deux datasets à dominante santé publique ou économie de la santé  
+  Deux datasets à dominante santé publique ou économie de la santé (Indiquez les liens de vos Jeux de données) 
 
 - **M1 Ingénierie de l’Assurance** :  
-  Deux datasets à dominante assurance, risque ou protection sociale  
+  Deux datasets à dominante assurance, risque ou protection sociale(Indiquez les liens de vos Jeux de données)   
 
 Les datasets devront provenir de sources ouvertes officielles et respecter les critères suivants :
 
