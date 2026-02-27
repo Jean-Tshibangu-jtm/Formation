@@ -159,7 +159,7 @@ La décision doit être cohérente avec les résultats et réaliste institutionn
 
 ## 5. Livrables attendus — Séance 1
 
-- Rapport appliquant les **5 premières étapes** de la question métier  
+- Rapport appliquant les **5 premières étapes** de la question métier  (à déposer le Mardi 3 mars, à 23h59 )
 - Modalités de dépôt : à définir
 
 ---
