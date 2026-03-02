@@ -2,7 +2,7 @@
 ## De la donnée brute à la décision stratégique
 
 ---
-
+## Les étudiants ne disposant pas encore d’un groupe sont invités à sélectionner une base de données parmi celles proposées ci-dessous et à débuter son analyse exploratoire et quesions métier
 ## 1. Contexte général du projet
 
 Dans les secteurs de la santé et de l’assurance, la donnée constitue un levier central d’aide à la décision, que ce soit pour piloter un budget hospitalier, ajuster une tarification, évaluer un risque, analyser une dépense publique ou mesurer la soutenabilité d’un dispositif social.
