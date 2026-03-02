@@ -12,7 +12,7 @@ Les futurs cadres en économie de la santé et en ingénierie de l’assurance d
 Ce projet vise à développer cette compétence en exigeant l’application intégrale des **7 étapes de la question métier**, à partir de jeux de données ouverts issus de sources institutionnelles réelles.
 
 ---
-### [📁 Dossier Dépot Rapport 1 – M1 Économie de la Santé](https://drive.google.com/drive/folders/1bwO0aHGzuesPynbpCyCcEoK6-r10FmLJ?usp=sharing),  au plutard Mardi 3 Mars, à 23h59
+### [📁 Dossier Dépot Rapport 1 – M1 Économie de la Santé et EPPS](https://drive.google.com/drive/folders/1bwO0aHGzuesPynbpCyCcEoK6-r10FmLJ?usp=sharing),  au plutard Mardi 3 Mars, à 23h59
 ## 2. Choix obligatoire des datasets
 
 Chaque groupe devra sélectionner **deux (ou trois) jeux de données distincts**, selon la logique suivante :
