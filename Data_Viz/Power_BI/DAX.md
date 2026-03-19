@@ -1,6 +1,4 @@
-# Anti-sèche DAX — Fonctions essentielles Power BI
-
-> Document restructuré à partir du fichier fourni, en conservant uniquement le contenu pédagogique sur les fonctions DAX.
+# DAX — Fonctions essentielles Power BI
 
 ## 1. Opérateurs de base en DAX
 
