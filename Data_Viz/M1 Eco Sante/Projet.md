@@ -198,7 +198,7 @@ Dérouler les **Étapes 4 à 7** :
 Le travail Power BI devra contenir :
 
 ### Prétraitement des données
-- Étapes réalisées dans **Power Query** avec captures d’écran  
+- Quelques étapes réalisées dans **Power Query** avec captures d’écran  
 
 ### Formulation des questions métiers
 
