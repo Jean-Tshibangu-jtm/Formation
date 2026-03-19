@@ -2,7 +2,6 @@
 ## De la donnée brute à la décision stratégique
 
 ---
-## Les étudiants ne disposant pas encore d’un groupe sont invités à sélectionner une base de données parmi celles proposées ci-dessous et à débuter son analyse exploratoire et quesions métier
 ## 1. Contexte général du projet
 
 Dans les secteurs de la santé et de l’assurance, la donnée constitue un levier central d’aide à la décision, que ce soit pour piloter un budget hospitalier, ajuster une tarification, évaluer un risque, analyser une dépense publique ou mesurer la soutenabilité d’un dispositif social.
@@ -164,7 +163,55 @@ La décision doit être cohérente avec les résultats et réaliste institutionn
 - Modalités de dépôt : à définir
 
 ---
+# 6. Livrables attendus : Rapport final (à déposer …)
 
-## 6. Livrables attendus — Séance 2
+Le rapport final devra inclure les éléments suivants :
 
-- À venir
+---
+
+##  1. Rapport 1
+
+- Description détaillée des deux bases de données utilisées  
+- Application des **7 étapes de la question métier** pour chacune des bases  
+
+---
+
+##  2. Visualisation avec Python (Notebook 2)
+
+- Analyse réalisée sur les deux bases de données  
+
+### Pour chaque question métier (Étape 3) :
+
+Dérouler les **Étapes 4 à 7** :
+
+- Modélisation  
+- Indicateurs (KPI)  
+- Visualisation  
+- Interprétation & décision  
+
+*(conformément à ce qui a été vu en cours)*  
+
+---
+
+## 3. Visualisation avec Power BI
+
+Le travail Power BI devra contenir :
+
+### Prétraitement des données
+- Étapes réalisées dans **Power Query** avec captures d’écran  
+
+### Formulation des questions métiers
+
+### Modélisation des données
+- Schéma des tables (modèle de données)  
+
+### Mesures DAX
+- Création et justification des indicateurs  
+
+### 📈 Dashboard
+- Visualisations cohérentes avec les questions métiers  
+
+### 📖 Data Storytelling & prise de décision
+- Interprétation des résultats  
+- Recommandations stratégiques  
+
