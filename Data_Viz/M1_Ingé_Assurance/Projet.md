@@ -172,7 +172,7 @@ Le rapport final devra inclure les éléments suivants :
 ##  1. Rapport 1
 
 - Description détaillée des deux bases de données utilisées  
-- Application des **7 étapes de la question métier** pour chacune des bases  
+- Application de **7 étapes de la question métier** pour chacune des bases  
 
 ---
 
