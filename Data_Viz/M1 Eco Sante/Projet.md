@@ -163,7 +163,7 @@ La décision doit être cohérente avec les résultats et réaliste institutionn
 - Modalités de dépôt : à définir
 
 ---
-# 6. Livrables attendus : Rapport final (à déposer …)
+# 6. Livrables attendus : Rapport final (à déposer au plutard Vendredi 3 Avril Mars, à 22h00.)
 
 Le rapport final devra inclure les éléments suivants :
 
