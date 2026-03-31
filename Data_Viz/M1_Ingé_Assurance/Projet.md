@@ -213,5 +213,7 @@ Le travail Power BI devra contenir :
 
 ### 📖 Data Storytelling & prise de décision
 - Interprétation des résultats  
-- Recommandations stratégiques  
+- Recommandations stratégiques
+
+### [📁 Dossier Dépot Rapport final IA](https://drive.google.com/drive/folders/1bjwENdaroR7Dtws5ujRuWPS-mmQGsMrb?usp=sharing),  au plutard Vendredi 3 Avril Mars, à 22h00.
 
