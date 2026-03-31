@@ -8,7 +8,7 @@ Dans les secteurs de la santé et de l’assurance, la donnée constitue un levi
 
 Les futurs cadres en économie de la santé et en ingénierie de l’assurance doivent être capables non seulement de manipuler des données, mais surtout de structurer un raisonnement décisionnel rigoureux permettant de relier des indicateurs chiffrés à des choix stratégiques concrets.
 
-Ce projet vise à développer cette compétence en exigeant l’application intégrale des **7 étapes de la question métier**, à partir de jeux de données ouverts issus de sources institutionnelles réelles.
+Ce projet vise à développer cette compétence en exigeant l’application intégrale de **7 étapes de la question métier**, à partir de jeux de données ouverts issus de sources institutionnelles réelles.
 
 ---
 ### [📁 Dossier Dépot Rapport 1 – M1 IA et  FI et Droit](https://drive.google.com/drive/folders/1nGUGultQ6HtZ6lqqFYYCdU_gSDl2A1_m?usp=sharing),  au plutard Mardi 3 Mars, à 23h59
@@ -163,7 +163,7 @@ La décision doit être cohérente avec les résultats et réaliste institutionn
 - Modalités de dépôt : à définir
 
 ---
-# 6. Livrables attendus : Rapport final (à déposer …)
+# 6. Livrables attendus : Rapport final (à déposer au plutard Vendredi 3 Avril Mars, à 22h00.)
 
 Le rapport final devra inclure les éléments suivants :
 
