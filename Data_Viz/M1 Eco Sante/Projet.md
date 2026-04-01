@@ -197,23 +197,40 @@ Dérouler les **Étapes 4 à 7** :
 
 Le travail Power BI devra contenir :
 
-### Prétraitement des données
-- Quelques étapes réalisées dans **Power Query** avec captures d’écran  
+### Prétraitement des données avec **Power Query**
+-  Étapes obligatoires non exhaustive (avec captures + explications):
+   - Gestion des valeurs manquantes (justifiée)
+   - suppression des doublons
+   - Typage rigoureux des colonnes
+   - Création de colonnes calculées
 
 ### Formulation des questions métiers
 
 ### Modélisation des données
 - Schéma des tables (modèle de données)  
 
-### Mesures DAX
-- Création et justification des indicateurs  
+### Mesures DAX(Minimum 5 mesures DAX)
+- Création et justification des indicateurs
+- KPI de base : SUM, COUNT, ...
+- Fonctions DAX:CALCULATE, DIVIDE, ...
 
 ### 📈 Dashboard
-- Visualisations cohérentes avec les questions métiers  
+- Le dashboard doit répondre à UNE question métier centrale
+- Chaque visuel doit être :
+  - Pertinent
+  - Expliqué
+  - Relié à une question métier
 
 ### 📖 Data Storytelling & prise de décision
-- Interprétation des résultats  
-- Recommandations stratégiques  
+- Structure imposée : Pour chaque dashboard :
+  -  Question métier
+  -  Analyse des résultats
+  -  Insights clés
+  -  Limites
+  -  Recommandations stratégiques
+ ### Question obligatoire
+ - Si vous étiez décideur, prendriez-vous une décision sur cette base ? Pourquoi ?
+  
 
 ### [📁 Dossier Dépot Rapport final EC_EPPS](https://drive.google.com/drive/folders/1jaQnwzMgKWpTwHWba_UtmrbNq9E9LLSX?usp=sharing),  au plutard Vendredi 3 Avril Mars, à 22h00.
 
