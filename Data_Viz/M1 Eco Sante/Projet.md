@@ -163,7 +163,7 @@ La décision doit être cohérente avec les résultats et réaliste institutionn
 - Modalités de dépôt : à définir
 
 ---
-# 6. Livrables attendus : Rapport final (à déposer au plutard Vendredi 3 Avril Mars, à 22h00.)
+# 6. Livrables attendus : Rapport final (à déposer au plutard Vendredi 3 Avril Mars, à 22h00. Tout retard de dépôt entraîne un malus)
 
 Le rapport final devra inclure les éléments suivants :
 
@@ -232,5 +232,5 @@ Le travail Power BI devra contenir :
  - Si vous étiez décideur, prendriez-vous une décision sur cette base ? Pourquoi ?
   
 
-### [📁 Dossier Dépot Rapport final EC_EPPS](https://drive.google.com/drive/folders/1jaQnwzMgKWpTwHWba_UtmrbNq9E9LLSX?usp=sharing),  au plutard Vendredi 3 Avril Mars, à 22h00.
+### [📁 Dossier Dépot Rapport final EC_EPPS](https://drive.google.com/drive/folders/1jaQnwzMgKWpTwHWba_UtmrbNq9E9LLSX?usp=sharing),  au plutard Vendredi 3 Avril Mars, à 22h00.Tout retard de dépôt entraîne un malus
 
